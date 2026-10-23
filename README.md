@@ -2,7 +2,7 @@
 
 Página de apresentação de um bot de moderação para Discord, feita para estudar HTML e CSS.
 
-🔗 **Ver ao vivo:** https://Dev-Erick-Rodrigo.github.io/landing-plotbot/
+**Ver ao vivo:** https://Dev-Erick-Rodrigo.github.io/landing-plotbot/
 
 ## O que tem na página
 
